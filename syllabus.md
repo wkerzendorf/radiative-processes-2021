@@ -1,6 +1,6 @@
 # Syllabus
 
-## Fall 2019, Michigan State University
+## Fall 2021, Michigan State University
 
 This is an advanced graduate-level course covering the essentials of radiation processes in astrophysics.
 
@@ -24,21 +24,20 @@ Dr. Wolfgang Kerzendorf
 Assistant Professor  
 Office: 3250 Biomedical and Physical Sciences  
 Office hours: By appointment  
-[kerzendo@pa.msu.edu](mailto:kerzendo@pa.msu.edu)  
+[wkerzend@msu.edu](mailto:wkerzend@msu.edu)  
 
 ### Class meetings
 
 The class meets Tuesdays and Thursdays from 5:00 pm to 6:20 pm in BPS 1300. 
 
-Lecture notes will be posted http://github.com/wkerzendorf/radtrans2019
+Some necessary materials will be posted http://github.com/wkerzendorf/radiative-processes-2021
 
 ### Communication and Slack
 
-The primary vehicle for communication regarding this course will be [Slack](http://slack.com).
-Specifically, there is a `rad-trans-fall2019` channel in the [AstroMSU](http://astromsu.slack.com) Slack workspace.
-You may use your `@msu.edu` email address to join this Slack workspace.
-Please join this Slack workspace.
-Discussion of course subject material and problems is encouraged.
+The primary vehicle for communication regarding this course will be the internal Astro [Mattermost](https://5fcw2e.stackhero-network.com).
+Specifically, there is a `rad-proc-2021` channelworkspace. If you are not part of the workspace yet - please let me know. 
+
+Discussion of course subject material and problems is **strongly** encouraged.
 You may also send direct messages via Slack to the instructor or any other member of the workspace.
 
 ### Text book and references
@@ -48,13 +47,13 @@ See [Resources](resources.rst) in the main folder for a link to resources. See t
 
 ### Assignments
 
-There will be reading and problem sets assigned on a roughly weekly basis. See [Assignments](assignments.md) for a complete listing (forthcoming 2nd week of class). See the resources.rst in each folder for the assigned watching of videos and reading. You will be expected to complete the reading _prior_ to class as not _all_ the reading material will be covered in lecture, but you _will_ need to know it in order to complete the problems. 
+There will be reading and problem sets assigned on a roughly bi-weekly basis. See [Assignments](assignments.md) for a complete listing (forthcoming 2nd week of class). See the resources.rst in each folder for the assigned watching of videos and reading. You will be expected to complete the reading _prior_ to class as not _all_ the reading material will be covered in lecture, but you _will_ need to know it in order to complete the problems. 
 
-Group work on the problem sets is encouraged and you are encouraged to turn in the problem sets with a maximum of 3 names assigned. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to work with classmates on assignments, you must explicitly acknowledge them by name and indicate their contributions in your final write-up. I will attempt to facilitate a peer-review process in the class for the grading process.
+Group work on the problem sets is encouraged and you are encouraged to turn in the problem sets with a maximum of 3 names assigned. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to work with classmates on assignments, you must explicitly acknowledge them by name and indicate their contributions in your final write-up. 
 
 ### Schedule
 
-There is a tentative [schedule](schedule.csv).
+The schedule is Tuesdays and Thursdays at 5.00 - 6.20. 
 
 ### Projects
 
