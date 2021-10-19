@@ -7,7 +7,7 @@ I think a nice goal for all of these projects is doing something along the lines
 
 This need not be original research; in fact, a good idea would be to try an reproduce numerically something that was worked out analytically (or more likely, approximately analytically). Use the computer as a tool to do calculations that are too tedious to do by hand (e.g., make use of Monte Carlo, ray tracing, etc.).
 
-Please identify what projects you want to do and in what group setting (outlining who does what) in 1 or 2 pages by October 15th. The projects will be due by December 2nd in the evening. The projects should consist of 1. the documented code (perhaps with a jupyter notebook); 2. a brief (few pages) write-up of what you did. We will try to schedule a brief in-class presentation of what you did. 
+Please identify what projects you want to do and in what group setting (outlining who does what) in 1 or 2 pages by November 9th. The projects will be due by December 2nd in the evening. The projects should consist of 1. the documented code (perhaps with a jupyter notebook); 2. a brief (few pages) write-up of what you did. We will try to schedule a brief in-class presentation of what you did. 
 
 Here are a few ideas to get you thinking; you could choose one of these, expand upon one of them, work off of a similar theme, or find something different altogether. It’s up to you. Other sources of ideas could include recent or ancient papers, talking to some of the other astronomy faculty, or looking at problems posed in textbooks.
 
