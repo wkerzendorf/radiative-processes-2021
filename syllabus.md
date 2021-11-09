@@ -57,7 +57,7 @@ The schedule is Tuesdays and Thursdays at 5.00 - 6.20.
 
 ### Projects
 
-You will be required to complete a final project for the course. The final projects will be done alone. See [Projects](numerical_projects.md) for forthcoming details. 
+You will be required to complete a final project for the course. The final projects will be done alone. See [Projects](numerical_project.md) for forthcoming details. 
 
 ### Final exam
 
